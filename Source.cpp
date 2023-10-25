@@ -36,7 +36,7 @@ int main()
 	int a,b;
 	cout<<"\nNhap a:";
 	cin>>a;
-	cout<<"\nNhap b:";
+	cout<<"\nNhap b:.";
 	cin>>b;
 	cout<<hieu(a,b)<<"hieu";
 	cout<<cong(a,b)<<"tong";
