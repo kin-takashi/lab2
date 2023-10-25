@@ -2,6 +2,20 @@
 
 using namespace std;
 <<<<<<< HEAD
+int tong(int a, int b);
+int hieu(int a, int b);
+int tich(int a, int b){
+	return a*b;
+}
+float thuong(int a, int b);
+int main()
+{
+	
+	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
+	tich(2*3);
+	
+=======
+<<<<<<< HEAD
 
 int hieu(int a, int b){
 	return a-b;
@@ -45,6 +59,8 @@ int main()
 	cout<<Capsocong(a)<<"capsocong";
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 	thuong(a,b);
+>>>>>>> ede2192bc1d7e2c5a4bb0e4e6cdd04be4764e773
 	system("pause");
+
 	return 0;
 }
