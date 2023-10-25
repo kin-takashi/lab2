@@ -24,6 +24,13 @@ float thuong(int a, int b)
 	return a/b;
 	
 };
+int congdayso(int a){
+	int s=0;
+	for(int i=0;i<=a;i++){
+		sum+=a
+	}
+	return s;
+}
 int main()
 {
 	int a,b;
@@ -35,6 +42,7 @@ int main()
 	cout<<cong(a,b)<<"tong";
 	cout<<tich(a,b)<<"nhan";
 	cout<<thuong(a,b)<<"thuong";
+	cout<<Capsocong(a)<<"capsocong";
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 	thuong(a,b);
 	system("pause");
